@@ -1,6 +1,8 @@
+![image](https://github.com/user-attachments/assets/bbbac663-7834-4e5d-ac7c-28bb4f0276e7)
 # Class Attendance Verification and Reward System
 
-## Vision
+## Vision!
+
 The **Attendance Rewards** smart contract aims to streamline class attendance tracking and reward students based on their attendance using blockchain technology. By leveraging Ethereum's immutable ledger, this system ensures transparency and fairness in tracking attendance and awarding tokens.
 
 ## Features
@@ -33,6 +35,8 @@ The **Attendance Rewards** smart contract aims to streamline class attendance tr
 ## Contact Details
 - **Project Creator**: Ayanav Bora
 - **Contract Address**: 0x2dd365900ddf46c6736476f97f909da59f3f7d03
+  ![image](https://github.com/user-attachments/assets/0aad6d8b-30d1-4f97-a373-1e8bd0ca3246)
+
 - **Email**: boraayanav3@gmail.com
 - **GitHub**: https://github.com/bortomanbeya
 - **LinkedIn**: https://www.linkedin.com/in/ayanav-bora-62b720200/
