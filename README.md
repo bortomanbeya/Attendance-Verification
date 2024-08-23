@@ -4,7 +4,7 @@
 
 ## Vision!
 
-The **Attendance Rewards** smart contract aims to streamline class attendance tracking and reward students based on their attendance using blockchain technology. By leveraging Ethereum's immutable ledger, this system ensures transparency and fairness in tracking attendance and awarding tokens.
+The **Attendance Rewards** smart contract aims to streamline class attendance tracking and reward students based on their attendance using blockchain technology. By leveraging Educhain's immutable ledger, this system ensures transparency and fairness in tracking attendance and awarding tokens.
 
 ## Features
 - **Attendance Verification**: Teachers can mark students' attendance on the blockchain.
