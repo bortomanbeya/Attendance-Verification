@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/bbbac663-7834-4e5d-ac7c-28bb4f0276e7)
 # Class Attendance Verification and Reward System
+![image](https://github.com/user-attachments/assets/fa78e8b9-3b9a-4e8e-b711-fb3c36bea78b)
+
 
 ## Vision!
 
