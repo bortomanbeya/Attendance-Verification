@@ -26,7 +26,7 @@ The **Attendance Rewards** smart contract aims to streamline class attendance tr
    - Both teacher and students use `getAttendance` and `getTokenBalance` to view attendance counts and token balances.
 
 ## Contract Address
-- **Ethereum Test Network Address**: `0x1234567890abcdef1234567890abcdef12345678` *(Replace with actual deployed address)*
+- **Educhain Test Network Address**: `0x1234567890abcdef1234567890abcdef12345678` *(Replace with actual deployed address)*
 
 ## Future Scope
 - **Enhanced Reward System**: Introduce varying reward levels based on attendance milestones.
